@@ -1,4 +1,4 @@
-**PHOTOX : An extract of a real and beautiful static website using only HTML, CSS, BOOSTRAP and to use WOW JS with ANIMATE CSS**
+**PHOTOX : An extract of a real and beautiful static website using only HTML, CSS, BOOSTRAP and WOW JS with ANIMATE CSS**
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
