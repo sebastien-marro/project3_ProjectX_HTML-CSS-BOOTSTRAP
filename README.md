@@ -2,6 +2,6 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
-![photoX](https://user-images.githubusercontent.com/61105869/74985706-4c1b9800-5438-11ea-8ec3-1b1a28c20502.jpg)
+![photoX](https://user-images.githubusercontent.com/61105869/74985892-b2081f80-5438-11ea-9da7-7e470af08831.jpg)
 
 *(This website was developped during my free-time to learn HTML and CSS)*
